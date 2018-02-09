@@ -1,5 +1,4 @@
 # Introduction to Google Cloud Machine Learning Engine
-This file contains text you can copy and paste for the examples in Cloud Academy's _Introduction to Google Cloud Machine Learning Engine_ course.  
 
 ### TensorFlow
 TensorFlow website: https://www.tensorflow.org  
@@ -112,4 +111,3 @@ gcloud ml-engine predict \
 
 ### Conclusion
 Cloud Machine Learning Engine documentation: https://cloud.google.com/ml-engine/docs  
-Cloud Academy community forums: http://cloudacademy.com/community  
